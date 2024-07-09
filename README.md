@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 CTRL+D = Multi Cursor and Edit.
+
+SESSION 1: Until 0:10:00 / 1:28:49
